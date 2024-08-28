@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](https://www.iscistech.in/image/software-testing-banner-iscistech-business-solution-india.jpg)
 <h1 align="center">Hi 👋, I'm Kalani Herath</h1>
-<h3 align="center">A Software Quality Assurance enthusiast</h3>
+<h3 align="center">An Intern Software QA Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaniayesha&label=Profile%20views&color=0e75b6&style=flat" alt="kalaniayesha" /> </p>
 
-- 🌱 I’m currently learning **Software Testing**
+- 🌱 I’m currently working **as an Intern Software QA Engineer**
 
 - 💬 Ask me about **Manual Testing, Automation**
 
